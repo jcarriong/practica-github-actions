@@ -1,4 +1,4 @@
-name: Run Tests and Upload Artifact
+name: Ejecutar tests y workflows
 
 on: [push, pull_request, workflow_dispatch]
 
